@@ -1,2 +1,7 @@
-# valflix
-Projeto Imersão React Alura
+# Projeto Imersão React Alura
+
+## Start 
+
+- yarn install
+- yarn start
+
